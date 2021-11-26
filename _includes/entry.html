@@ -16,6 +16,9 @@
   </header>
   <footer class="entry-meta">
     <ul>
+    {% if recipe.author %}
+    <li><span class="byline-item"> by {{ recipe.author }}</li>
+    {% endif %}
     {% if recipe.date %}
       <li><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time" datetime="{{ recipe.date | date_to_xmlschema }}">{{ recipe.date | date: "%B %-d, %Y" }}</time></li>
     {% endif %}
