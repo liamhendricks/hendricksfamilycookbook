@@ -9,8 +9,8 @@
     <h3 class="entry-title">
       <a href="{{ recipe.url | relative_url }}" rel="bookmark">{{ title }}</a>
     </h3>
-    {% if recipe.image.thumbnail %}
-      {% assign entry_image = recipe.image.thumbnail | relative_url | escape %}
+    {% if recipe.image.path %}
+      {% assign entry_image = recipe.image.path | relative_url | escape %}
       <img class="entry-image u-photo" src="http://images.weserv.nl/?url={{ site.url }}{{ entry_image }}&w=400&h=200&fit=cover" alt="">
     {% endif %}
   </header>
