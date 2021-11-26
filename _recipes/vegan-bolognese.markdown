@@ -11,7 +11,6 @@ read_time: true
 author: Liam Hendricks
 image:
   path: "/uploads/vegan-bolognese.jpg"
-  thumbnail: assets/images/vegan-bolognese.jpg
   caption: Vegan Bolognese
 ---
 
