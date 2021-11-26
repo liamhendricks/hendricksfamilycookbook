@@ -35,3 +35,4 @@ github_username: liamhendricks
 theme: jekyll-theme-basically-basic
 paginate: 5
 paginate_path: "/page:num/"
+exclude: ["Gemfile.lock", "node_modules"]
