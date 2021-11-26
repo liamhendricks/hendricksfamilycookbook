@@ -2,9 +2,6 @@
 title: Hendricks Family Cookbook
 timezone: UTC
 collections:
-  people:
-    title: People
-    output: true
   posts:
     title: Posts
     output: true
