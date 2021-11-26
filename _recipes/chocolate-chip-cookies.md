@@ -2,8 +2,8 @@
 title: Chocolate Chip Cookies
 author: Liam Hendricks
 image:
-  path: "/assets/images/chocolate-chip-cookies-lg.jpg"
-  thumbnail: "/assets/images/chocolate-chip-cookies-400x200.jpg"
+  path: "/uploads/chocolate-chip-cookies-lg.jpg"
+  thumbnail: 
   caption: Photo from [Pexels](https://www.pexels.com)
 layout: post
 ---
