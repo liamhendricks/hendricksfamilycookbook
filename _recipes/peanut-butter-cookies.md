@@ -3,7 +3,6 @@ title: Peanut Butter Cookies
 author: Liam Hendricks
 image:
   path: "/uploads/peanut-butter-cookies-lg.jpg"
-  thumbnail: 
   caption: Photo from [Pexels](https://www.pexels.com)
 layout: post
 ---
