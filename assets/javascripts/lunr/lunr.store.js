@@ -13,4 +13,9 @@ var store = [{
         "excerpt":"My plant-based version of a classic, hearty tomato sauce. Instead of the traditional ground beef or pork, we will use lentils and walnuts as a replacement. I personally think it’s one of the few vegan “meat” dishes that tastes better without the meat. Carly and I eat it all the...","categories": ["vegan","pasta"],
         "tags": ["vegan","pasta"],
         "url": "https://hendricksfamilycookbook.com/recipes/vegan-bolognese/"
+      },{
+        "title": "Test Recipe",
+        "excerpt":"Tea balls! Ingredients   1 Onion  1 bag of flour  1 gallon of gatoradeDirections   Mix everything together.  Enjoy!","categories": ["drinks"],
+        "tags": ["drinks"],
+        "url": "https://hendricksfamilycookbook.com/recipes/test-recipe/"
       },]
