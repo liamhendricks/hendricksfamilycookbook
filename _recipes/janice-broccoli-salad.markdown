@@ -12,6 +12,8 @@ author: Catherine Hendricks
 A family favorite from my favorite Aunt Janice!
 
 ## Ingredients
+
+### Salad
 * 2 bunches broccoli
 * chopped 1/3 cup chopped red Burmuda onion 
 * 1 1/2 lb, bacon (cooked crisp, and crumbled) 
