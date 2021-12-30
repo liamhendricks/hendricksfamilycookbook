@@ -1,6 +1,11 @@
 ---
 title: Oreo Dessert
 date: 2021-12-30 23:07:00 Z
+categories:
+- dessert
+tags:
+- desseret
+- oreo
 ---
 
 ## Ingredients
@@ -23,6 +28,14 @@ date: 2021-12-30 23:07:00 Z
 3. Add remaining ingredients to chocolate mixture. 
 4. Boil 8 min. stirring constantly. 
 
-Layer 1: Crush up most of oreo cookies. Mix with melted butter to 
-make crust. (Reserve some for top) Layer 2: Spread a layer of softened ice cream over crust. Freeze! Layer 3: Spread a generous layer of cooled chocolate syrup over ice 
-cream. Layer 4: Spread on a generous layer of Cool Whip. Layer 5: Sprinkle reserved cookies on top. Freeze 2 hours. 
+Layer 1: 
+Crush up most of oreo cookies. Mix with melted butter to 
+make crust. (Reserve some for top) 
+Layer 2: 
+Spread a layer of softened ice cream over crust. Freeze! 
+Layer 3: 
+Spread a generous layer of cooled chocolate syrup over ice 
+cream. 
+Layer 4: 
+Spread on a generous layer of Cool Whip. 
+Layer 5: Sprinkle reserved cookies on top. Freeze 2 hours. 
