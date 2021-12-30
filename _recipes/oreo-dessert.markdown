@@ -1,5 +1,5 @@
 ---
-title: Grandma Eliason's Oreo Dessert
+title: Oreo Dessert
 date: 2021-12-30 23:07:00 Z
 categories:
 - dessert
@@ -8,6 +8,8 @@ tags:
 - oreo
 author: Catherine Hendricks
 ---
+
+A must-have for Deer Valley reunions. Recipe from Grandma Eliason. 
 
 ## Ingredients
 
