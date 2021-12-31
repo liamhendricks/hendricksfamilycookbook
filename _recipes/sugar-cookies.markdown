@@ -1,6 +1,7 @@
 ---
 title: Sugar Cookies
 date: 2021-12-31 00:54:00 Z
+author: Catherine Hendricks
 ---
 
 Best sugar cookie recipe from Kathy Ashton, a neighborhood friend. 
