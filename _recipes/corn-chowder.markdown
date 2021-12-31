@@ -7,6 +7,7 @@ tags:
 - corn
 - chowder
 - soup
+author: Catherine Hendricks
 ---
 
 One of my favorite recipes from Shayne Eliason! 
