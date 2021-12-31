@@ -12,7 +12,7 @@ author: Catherine Hendricks
 
 One of my favorite recipes from Shayne Eliason! 
 
-##Ingredients
+## Ingredients
 * 4 oz. sliced bacon, cut into small pieces
 * 2 TB butter
 * 2 TB flour
