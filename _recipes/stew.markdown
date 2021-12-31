@@ -1,6 +1,11 @@
 ---
 title: Stew
 date: 2021-12-31 22:31:00 Z
+categories:
+- Soup
+tags:
+- Stew
+- Soup
 author: 'Catherine Hendricks '
 ---
 
