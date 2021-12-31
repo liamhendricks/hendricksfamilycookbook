@@ -10,7 +10,7 @@ tags:
 author: Catherine Hendricks
 ---
 
-Karen Lidtka nailed it out of the ballpark with this one! This soup is great any time of the year. 
+Karen Hendricks Lidtka nailed it out of the ballpark with this one! This soup is great any time of the year. 
 
 ## Ingredients
 * 1 1/2 lbs. Italian sausage
