@@ -1,6 +1,12 @@
 ---
 title: Hamburger Vegetable Soup
 date: 2021-12-31 21:41:00 Z
+categories:
+- Soup
+tags:
+- vegetables
+- ground beef
+- soup
 author: Catherine Hendricks
 ---
 
