@@ -8,7 +8,7 @@ tags:
 author: Catherine Hendricks
 ---
 
-The secret to the success of this recipe is using a whole chicken, along with the broth, and using the homemade noodles. 
+The secret to the success of this recipe is using a whole chicken, along with the broth, and using the homemade noodles. If you do not have time to make the noodles, you can substitute any pasta. 
 
 ## Ingredients
 * 3- to 4-lb. whole chicken
