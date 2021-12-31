@@ -7,6 +7,7 @@ tags:
 - cheese
 - potato
 - soup
+author: Catherine Hendricks
 ---
 
 Probably not the healthiest soup, but over the years I substituted real shredded cheese for the previous Velveeta Cheese. This soup is great in bread bowls. When you kids were young, this was a meal you all ate! 
