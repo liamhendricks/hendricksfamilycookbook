@@ -8,6 +8,8 @@ tags:
 - chocholate chip
 read_time: true
 author: Catherine Hendricks
+image:
+  path: 
 ---
 
 Catherine's favorite chocolate chip cookie recipe. 
