@@ -7,7 +7,9 @@ tags:
 - chocolate kiss
 - cookie
 author: Catherine Hendricks
-image: 
+image:
+  Key:
+    Key 1: 
 ---
 
 Yummy holiday cookie!
