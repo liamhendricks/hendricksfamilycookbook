@@ -8,8 +8,7 @@ tags:
 - cookie
 author: Catherine Hendricks
 image:
-  path:
-    "/uploads/Kiss.jpg": 
+  path: 
 ---
 
 Yummy holiday cookie!
