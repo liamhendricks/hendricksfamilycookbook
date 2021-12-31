@@ -5,7 +5,7 @@ categories:
 - cookies
 tags:
 - cookies
-- chocholate chip
+- chocolate chip
 read_time: true
 author: Catherine Hendricks
 image:
