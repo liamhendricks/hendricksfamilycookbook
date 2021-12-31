@@ -1,6 +1,7 @@
 ---
 title: Jam Diagonals
 date: 2021-12-31 00:36:00 Z
+author: Catherine Hendricks
 ---
 
 Festive shortbread cookie with raspberry jam. Recipe from high school friend, Holly Blomquist. 
