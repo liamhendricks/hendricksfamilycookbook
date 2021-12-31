@@ -1,6 +1,7 @@
 ---
 title: Peanut Butter Kiss Cookies
 date: 2021-12-31 00:43:00 Z
+author: Catherine Hendricks
 ---
 
 Yummy holiday cookie!
