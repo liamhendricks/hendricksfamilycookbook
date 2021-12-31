@@ -13,7 +13,7 @@ author: Catherine Hendricks
 
 Flavorful and light salad by Pattie Shumway. Can be used as main or side dish. 
 
-##Ingredients
+## Ingredients
 * 1 head of lettuce 
 * 2 or 3 cooked chicken breasts, cubed 
 * 1/2 pkg. won ton skins, fried and crumbled 
