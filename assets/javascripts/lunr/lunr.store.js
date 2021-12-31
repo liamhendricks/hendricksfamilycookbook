@@ -55,7 +55,7 @@ var store = [{
         "url": "https://hendricksfamilycookbook.com/recipes/chicken-noodle-soup/"
       },{
         "title": "Corn Chowder",
-        "excerpt":"One of my favorite recipes from Shayne Eliason! ##Ingredients 4 oz. sliced bacon, cut into small pieces 2 TB butter 2 TB flour 4 cups chicken broth 1-2 large potatoes, peeled and diced 1 cup half and half 4 cups fresh corn 1 tsp pepper Salt, to taste 1 large...","categories": ["Soup"],
+        "excerpt":"One of my favorite recipes from Shayne Eliason! Ingredients 4 oz. sliced bacon, cut into small pieces 2 TB butter 2 TB flour 4 cups chicken broth 1-2 large potatoes, peeled and diced 1 cup half and half 4 cups fresh corn 1 tsp pepper Salt, to taste 1 large...","categories": ["Soup"],
         "tags": ["corn","chowder","soup"],
         "url": "https://hendricksfamilycookbook.com/recipes/corn-chowder/"
       },{
@@ -68,4 +68,24 @@ var store = [{
         "excerpt":"Karen Lidtka nailed it out of the ballpark with this one! This soup is great any time of the year. Ingredients 1 1/2 lbs. Italian sausage 1 medium onion 2 cloves garlic, minced 28 oz. Italian style tomatoes w/ liquid 16 oz. tomato sauce 8 cups water 2 medium zucchinis,...","categories": ["Soup"],
         "tags": ["Italian","Soup","Sausage"],
         "url": "https://hendricksfamilycookbook.com/recipes/italian-sausage-soup/"
+      },{
+        "title": "Potato Cheese Soup",
+        "excerpt":"Probably not the healthiest soup, but over the years I substituted real shredded cheese for the previous Velveeta Cheese. This soup is great in bread bowls. When you kids were young, this was a meal you all ate! Ingredients 3 cups chicken broth 1 cup finely chopped celery 1/2 cup...","categories": ["soup"],
+        "tags": ["cheese","potato","soup"],
+        "url": "https://hendricksfamilycookbook.com/recipes/potato-cheese-soup/"
+      },{
+        "title": "Taco Soup",
+        "excerpt":"Hearty taco soup crowd pleaser from Shayne Eliason. Easiest soup to make. Ingredients 2 lbs. ground beef 1 large onion, chopped 1 10 oz. can Ro-Tel diced tomatoes 2 cans diced tomatoes 2 ½ cups fresh or frozen corn 1 can black beans 1 can pinto beans 2 cups beef...","categories": ["Soup"],
+        "tags": ["taco soup"],
+        "url": "https://hendricksfamilycookbook.com/recipes/taco-soup/"
+      },{
+        "title": "Wisconsin Cauliflower Soup",
+        "excerpt":"Zupas Copycat. Ingredients 2 TB butter 1 white onion, diced 2 tsp minced garlic 1/4 cup flour 2 cups milk 3 cups chicken broth (or vegetable broth) 2 tsp salt 1 head cauliflower, chopped 1 cup shredded pepper jack cheese 2 cups shredded sharp white cheddar cheeseDirections Melt butter in...","categories": ["Soup"],
+        "tags": ["Cauliflower","Soup","Wisconsin"],
+        "url": "https://hendricksfamilycookbook.com/recipes/wisconsin-cauliflower-soup/"
+      },{
+        "title": "Chicken & Wild Rice Soup",
+        "excerpt":"A creamy chicken soup from a neighborhood friend, Natalie Rogers. Ingredients 3 (10 oz.) cans chicken broth 2 cups water ½ cup uncooked wild rice, rinsed or (Ben’s Wild rice) ½ cup finely chopped green onions 1 ½ cups cooked chicken 6 slices cooked, chopped bacon ½ cup butter ¾...","categories": ["Soup"],
+        "tags": ["chicken","wild rice","soup"],
+        "url": "https://hendricksfamilycookbook.com/recipes/chicken-wild-rice-soup/"
       },]
