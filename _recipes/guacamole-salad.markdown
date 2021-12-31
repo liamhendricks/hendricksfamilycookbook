@@ -1,6 +1,11 @@
 ---
 title: Guacamole Salad
 date: 2021-12-31 22:37:00 Z
+categories:
+- Salad
+tags:
+- Salad
+- Guacamole
 author: Catherine Hendricks
 ---
 
