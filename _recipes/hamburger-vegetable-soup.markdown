@@ -10,6 +10,8 @@ tags:
 author: Catherine Hendricks
 ---
 
+This is such a good soup. Freezes well if you can't finish. Recipe from Grandma Eliason. 
+
 ## Ingredients
 * 1 lb. ground beef
 * 1 onion, chopped
