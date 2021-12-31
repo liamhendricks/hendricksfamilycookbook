@@ -11,7 +11,7 @@ read_time: true
 author: Catherine Hendricks
 ---
 
-Flavorful salad by Pattie Shumway.
+Flavorful and light salad by Pattie Shumway.
 
 ##Ingredients
 * 1 head of lettuce 
