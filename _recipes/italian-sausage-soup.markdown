@@ -18,3 +18,14 @@ Karen Lidtka nailed it out of the ballpark with this one! This soup is great any
 * 1 tsp basil
 * 5 oz. parmesan cheese
 
+## Directions
+1. Sauté sausage until brown; drain fat.
+2. Add onion and garlic. Sauté until limp.
+3. Put in big cooking pot. 
+4. Stir in tomatoes, breaking into small pieces. 
+5. Add tomato sauce, beef broth, water, vinegar, and basil. 
+6. Simmer 30 minutes. 
+7. Stir in pasta, zucchini, parsley. 
+8. Simmer 25 minutes.
+9. Garnish with parmesan cheese.
+
