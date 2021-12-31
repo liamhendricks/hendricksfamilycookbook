@@ -31,14 +31,14 @@ A must-have for Deer Valley reunions. Recipe from Grandma Eliason. Zoe's fav.
 3. Add remaining ingredients to chocolate mixture. 
 4. Boil 8 min. stirring constantly. 
 
-Layer 1: 
+1. Layer 1: 
 Crush up most of oreo cookies. Mix with melted butter to 
 make crust. (Reserve some for top) 
-Layer 2: 
+2. Layer 2: 
 Spread a layer of softened ice cream over crust. Freeze! 
-Layer 3: 
+3. Layer 3: 
 Spread a generous layer of cooled chocolate syrup over ice 
 cream. 
-Layer 4: 
+4. Layer 4: 
 Spread on a generous layer of Cool Whip. 
-Layer 5: Sprinkle reserved cookies on top. Freeze 2 hours. 
+5. Layer 5: Sprinkle reserved cookies on top. Freeze 2 hours. 
