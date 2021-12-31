@@ -11,7 +11,7 @@ read_time: true
 author: Catherine Hendricks
 ---
 
-Flavorful and light salad by Pattie Shumway.
+Flavorful and light salad by Pattie Shumway. Can be used as main or side dish. 
 
 ##Ingredients
 * 1 head of lettuce 
