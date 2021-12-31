@@ -33,4 +33,14 @@ var store = [{
         "excerpt":"Recipe from Jenny Sampson, a friend from the neighborhood. Ingredients 1 1/2 cups butter 2 cups sugar 1/2 cup molasses 4 tsp soda 4 cups flour 2 tsp cinnamon 1/2 tsp salt 2-2 1/2 tsp gingerDirections Preheat oven to 350 degrees. Mix wet, then dry ingredients. Chill dough. Bake for...","categories": ["cookies"],
         "tags": ["cookies","ginger snap"],
         "url": "https://hendricksfamilycookbook.com/recipes/ginger-snap-cookies/"
+      },{
+        "title": "Jam Diagonals",
+        "excerpt":"Festive shortbread cookie with raspberry jam. Recipe from high school friend, Holly Blomquist. Ingredients 1/2 cup butter 1/4 cup sugar 1 tsp vanilla 1/8 tsp salt 1 1/4 cup flour 1/4 cup homemade raspberry jamGlaze 3/4 cup powdered sugar 4 tsp lemon juiceDirections Preheat oven to 350 degrees. Cream butter,...","categories": ["cookies"],
+        "tags": ["jam","shortbread"],
+        "url": "https://hendricksfamilycookbook.com/recipes/jam-diagonals/"
+      },{
+        "title": "Peanut Butter Kiss Cookies",
+        "excerpt":"Yummy holiday cookie! Ingredients 1/2 cup shortening 1/2 cup peanut butter 1/2 cup brown sugar 1/2 cup sugar 1 egg 1 tsp vanilla 1 3/4 cup flour 1 tsp soda 1/2 tsp salt 1 package Hershey’s chocolate kissesDirections Preheat oven to 375 degrees. Cream peanut butter, shortening, and sugars. Add...","categories": ["cookies"],
+        "tags": ["chocolate kiss","cookie"],
+        "url": "https://hendricksfamilycookbook.com/recipes/peanut-butter-kiss-cookies/"
       },]
