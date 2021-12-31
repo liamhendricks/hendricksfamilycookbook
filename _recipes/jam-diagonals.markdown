@@ -1,6 +1,11 @@
 ---
 title: Jam Diagonals
 date: 2021-12-31 00:36:00 Z
+categories:
+- cookies
+tags:
+- jam
+- shortbread
 author: Catherine Hendricks
 ---
 
