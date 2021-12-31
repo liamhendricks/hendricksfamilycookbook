@@ -9,7 +9,7 @@ tags:
 read_time: true
 author: Catherine Hendricks
 image:
-  path: 
+  path: "/uploads/cc%20cookies.jpg"
 ---
 
 Catherine's favorite chocolate chip cookie recipe. 
