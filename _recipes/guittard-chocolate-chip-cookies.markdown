@@ -1,8 +1,13 @@
 ---
 title: Guittard Chocolate Chip Cookies
 date: 2021-12-31 00:14:00 Z
-author: Catherine Hendricks
+categories:
+- cookies
+tags:
+- cookies
+- chocholate chip
 read_time: true
+author: Catherine Hendricks
 ---
 
 Catherine's favorite chocolate chip cookie recipe. 
