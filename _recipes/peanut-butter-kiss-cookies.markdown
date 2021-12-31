@@ -8,7 +8,7 @@ tags:
 - cookie
 author: Catherine Hendricks
 image:
-  Key:
+  path:
     Key 1: 
 ---
 
