@@ -65,7 +65,7 @@ var store = [{
         "url": "https://hendricksfamilycookbook.com/recipes/hamburger-vegetable-soup/"
       },{
         "title": "Italian Sausage Soup",
-        "excerpt":"Karen Lidtka nailed it out of the ballpark with this one! This soup is great any time of the year. Ingredients 1 1/2 lbs. Italian sausage 1 medium onion 2 cloves garlic, minced 28 oz. Italian style tomatoes w/ liquid 16 oz. tomato sauce 8 cups water 2 medium zucchinis,...","categories": ["Soup"],
+        "excerpt":"Karen Hendricks Lidtka nailed it out of the ballpark with this one! This soup is great any time of the year. Ingredients 1 1/2 lbs. Italian sausage 1 medium onion 2 cloves garlic, minced 28 oz. Italian style tomatoes w/ liquid 16 oz. tomato sauce 8 cups water 2 medium...","categories": ["Soup"],
         "tags": ["Italian","Soup","Sausage"],
         "url": "https://hendricksfamilycookbook.com/recipes/italian-sausage-soup/"
       },{
@@ -88,4 +88,14 @@ var store = [{
         "excerpt":"A creamy chicken soup from a neighborhood friend, Natalie Rogers. Ingredients 3 (10 oz.) cans chicken broth 2 cups water ½ cup uncooked wild rice, rinsed or (Ben’s Wild rice) ½ cup finely chopped green onions 1 ½ cups cooked chicken 6 slices cooked, chopped bacon ½ cup butter ¾...","categories": ["Soup"],
         "tags": ["chicken","wild rice","soup"],
         "url": "https://hendricksfamilycookbook.com/recipes/chicken-wild-rice-soup/"
+      },{
+        "title": "Stew",
+        "excerpt":"This best stew recipe comes from Angie Hendricks Martin! Ingredients 1 ½ lbs. lean boneless round steak 1 can (14 oz.) can chopped stewed tomatoes 3 cups water 1 medium onion, sliced thin 1 clove garlic, minced 1 tsp salt ¼ tsp pepper 1 bay leaf 1 TB lemon juice...","categories": ["Soup"],
+        "tags": ["Stew","Soup"],
+        "url": "https://hendricksfamilycookbook.com/recipes/stew/"
+      },{
+        "title": "Guacamole Salad",
+        "excerpt":"A favorite salad of mine from a neighborhood friend, Heidi Richards. Ingredients Head of lettuce 2 tomatoes, wedged 1/2 cup green onions 1 cup corn chips 1/2 cup cheddar cheese, gratedDressing Ingredients 1/2 cup mashed avocado 1 TB lemon juice 1/2 cup sour cream 1/3 cup oil 1 clove garlic,...","categories": ["Salad"],
+        "tags": ["Salad","Guacamole"],
+        "url": "https://hendricksfamilycookbook.com/recipes/guacamole-salad/"
       },]
