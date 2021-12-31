@@ -9,7 +9,7 @@ tags:
 author: Catherine Hendricks
 ---
 
-A must-have for Deer Valley reunions. Recipe from Grandma Eliason. 
+A must-have for Deer Valley reunions. Recipe from Grandma Eliason. Zoe's fav.
 
 ## Ingredients
 
