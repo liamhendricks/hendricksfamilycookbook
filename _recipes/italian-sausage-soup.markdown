@@ -1,6 +1,7 @@
 ---
 title: Italian Sausage Soup
 date: 2021-12-31 21:47:00 Z
+author: Catherine Hendricks
 ---
 
 Karen Lidtka nailed it out of the ballpark with this one! This soup is great any time of the year. 
