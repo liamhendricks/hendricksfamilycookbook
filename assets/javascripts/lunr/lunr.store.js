@@ -43,4 +43,9 @@ var store = [{
         "excerpt":"Yummy holiday cookie! Ingredients 1/2 cup shortening 1/2 cup peanut butter 1/2 cup brown sugar 1/2 cup sugar 1 egg 1 tsp vanilla 1 3/4 cup flour 1 tsp soda 1/2 tsp salt 1 package Hershey’s chocolate kissesDirections Preheat oven to 375 degrees. Cream peanut butter, shortening, and sugars. Add...","categories": ["cookies"],
         "tags": ["chocolate kiss","cookie"],
         "url": "https://hendricksfamilycookbook.com/recipes/peanut-butter-kiss-cookies/"
+      },{
+        "title": "Sugar Cookies",
+        "excerpt":"Best sugar cookie recipe from Kathy Ashton, a neighborhood friend. Ingredients 1 cup sugar 3 cups flour 1 tsp baking powder 1 tsp salt 1 tsp baking soda 1 cup shortening 2 eggs 2 tsp vanilla 4 TB milkDirections Preheat oven to 400 degrees. Mix together: sugar, flour, baking powder,...","categories": ["cookies"],
+        "tags": ["sugar cookies","cream cheese"],
+        "url": "https://hendricksfamilycookbook.com/recipes/sugar-cookies/"
       },]
