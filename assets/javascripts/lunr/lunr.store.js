@@ -26,7 +26,7 @@ var store = [{
       },{
         "title": "Guittard Chocolate Chip Cookies",
         "excerpt":"Catherine’s favorite chocolate chip cookie recipe. Ingredients 1 cup butter 3/4 cup sugar 3/4 cup brown sugar 2 large eggs 1 tsp vanilla 1 tsp salt 1 tsp soda 2 1/2 - 3 cups flour 2 cups Guittard chocolate chips (milk or semi-sweet)Directions Preheat oven to 375 degrees. Cream wet...","categories": ["cookies"],
-        "tags": ["cookies","chocholate chip"],
+        "tags": ["cookies","chocolate chip"],
         "url": "https://hendricksfamilycookbook.com/recipes/guittard-chocolate-chip-cookies/"
       },{
         "title": "Ginger Snap Cookies",
@@ -48,4 +48,24 @@ var store = [{
         "excerpt":"Best sugar cookie recipe from Kathy Ashton, a neighborhood friend. Ingredients 1 cup sugar 3 cups flour 1 tsp baking powder 1 tsp salt 1 tsp baking soda 1 cup shortening 2 eggs 2 tsp vanilla 4 TB milkDirections Preheat oven to 400 degrees. Mix together: sugar, flour, baking powder,...","categories": ["cookies"],
         "tags": ["sugar cookies","cream cheese"],
         "url": "https://hendricksfamilycookbook.com/recipes/sugar-cookies/"
+      },{
+        "title": "Chicken Noodle Soup",
+        "excerpt":"The secret to the success of this recipe is using a whole chicken, along with the broth, and using the homemade noodles. If you do not have time to make the noodles, you can substitute any pasta. Ingredients 3- to 4-lb. whole chicken Carrots, sliced Celery, sliced Corn (use fresh...","categories": ["Soup"],
+        "tags": ["Chicken noodle soup"],
+        "url": "https://hendricksfamilycookbook.com/recipes/chicken-noodle-soup/"
+      },{
+        "title": "Corn Chowder",
+        "excerpt":"One of my favorite recipes from Shayne Eliason! ##Ingredients 4 oz. sliced bacon, cut into small pieces 2 TB butter 2 TB flour 4 cups chicken broth 1-2 large potatoes, peeled and diced 1 cup half and half 4 cups fresh corn 1 tsp pepper Salt, to taste 1 large...","categories": ["Soup"],
+        "tags": ["corn","chowder","soup"],
+        "url": "https://hendricksfamilycookbook.com/recipes/corn-chowder/"
+      },{
+        "title": "Hamburger Vegetable Soup",
+        "excerpt":"This is such a good soup. Freezes well if you can’t finish. Recipe from Grandma Eliason. Ingredients 1 lb. ground beef 1 onion, chopped 1 glove garlic, minced 2 cups potatoes, diced 1 cup carrots, sliced 1 cup celery sliced 1 cup purple cabbage, shredded 1 can (1 lb.) tomatoes...","categories": ["Soup"],
+        "tags": ["vegetables","ground beef","soup"],
+        "url": "https://hendricksfamilycookbook.com/recipes/hamburger-vegetable-soup/"
+      },{
+        "title": "Italian Sausage Soup",
+        "excerpt":"Karen Lidtka nailed it out of the ballpark with this one! This soup is great any time of the year. Ingredients 1 1/2 lbs. Italian sausage 1 medium onion 2 cloves garlic, minced 28 oz. Italian style tomatoes w/ liquid 16 oz. tomato sauce 8 cups water 2 medium zucchinis,...","categories": ["Soup"],
+        "tags": ["Italian","Soup","Sausage"],
+        "url": "https://hendricksfamilycookbook.com/recipes/italian-sausage-soup/"
       },]
