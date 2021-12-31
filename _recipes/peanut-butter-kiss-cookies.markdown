@@ -9,7 +9,7 @@ tags:
 author: Catherine Hendricks
 image:
   path:
-    Key 1: 
+    "/uploads/Kiss.jpg": 
 ---
 
 Yummy holiday cookie!
