@@ -5,7 +5,7 @@ var store = [{
         "url": "https://hendricksfamilycookbook.com/recipes/vegan-bolognese/"
       },{
         "title": "Janice's Broccoli Salad",
-        "excerpt":"A family favorite from my favorite Aunt Janice! Ingredients Salad   2 bunches broccoli  chopped 1/3 cup chopped red Burmuda onion  1 1/2 lb, bacon (cooked crisp, and crumbled)  3/4 cup grated cheddar cheeseDressing   1 cup mayonnaise (no substitutes)  1/2 cup sugar  3 TBS red wine vinegar","categories": ["Salad"],
+        "excerpt":"A family favorite from my favorite Aunt Janice! Ingredients Salad   2 bunches broccoli  chopped 1/3 cup chopped red Burmuda onion  1 1/2 lb, bacon (cooked crisp, and crumbled)  3/4 cup grated cheddar cheeseDressing   1 cup mayonnaise (no substitutes)  1/2 cup sugar  3 TBS red wine vinegar###Variation   Dried Cranberries","categories": ["Salad"],
         "tags": ["broccoli"],
         "url": "https://hendricksfamilycookbook.com/recipes/janice-broccoli-salad/"
       },{
