@@ -7,6 +7,8 @@ tags:
 - broccoli
 read_time: true
 author: Catherine Hendricks
+Image:
+  path: "/uploads/Broccoli-d78869.jpg"
 ---
 
 A family favorite from my favorite Aunt Janice!
@@ -23,4 +25,7 @@ A family favorite from my favorite Aunt Janice!
 * 1 cup mayonnaise (no substitutes) 
 * 1/2 cup sugar 
 * 3 TBS red wine vinegar 
+
+###Variation
+* Dried Cranberries
 
