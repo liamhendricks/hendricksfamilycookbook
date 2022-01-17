@@ -7,7 +7,7 @@ tags:
 - broccoli
 read_time: true
 author: Catherine Hendricks
-Image:
+image:
   path: "/uploads/Broccoli-d78869.jpg"
 ---
 
