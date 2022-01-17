@@ -6,6 +6,7 @@ categories:
 - breads
 tags:
 - Pumpkin bread
+author: Catherine Hendricks
 ---
 
 Shayne Eliason's yummy pumpkin bread. 
