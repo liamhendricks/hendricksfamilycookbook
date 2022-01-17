@@ -6,6 +6,7 @@ categories:
 - bread
 tags:
 - cornbread
+author: 'Catherine Hendricks '
 ---
 
 This is more like a dessert than cornbread! 
