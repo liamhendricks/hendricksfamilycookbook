@@ -6,6 +6,7 @@ categories:
 - freezer
 tags:
 - tomato sauce
+author: Catherine Hendricks
 ---
 
 We make this every year after the tomato harvest. 
