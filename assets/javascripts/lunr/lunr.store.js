@@ -103,4 +103,14 @@ var store = [{
         "excerpt":"A Christmas morning tradition from the Shumways. Ingredients 1 cup buttermilk 1 yeast dissolved in 1/4 cup water 1/2 cube butter 1 egg slightly beaten 3 TB sugar 1/4 tsp baking soda 1 tsp salt 3 3/4 cup flourDirections Bring buttermilk just to boiling. Add butter, sugar and salt. Pour...","categories": ["swedish twists","cinnamon rolls"],
         "tags": ["swedish twist"],
         "url": "https://hendricksfamilycookbook.com/recipes/swedish-twists/"
+      },{
+        "title": "Cornbread",
+        "excerpt":"This is more like a dessert than cornbread! Ingredients   2 eggs, beaten  1 cup milk  2 cups Bisquick mix  3/4 cup sugar  1/2 tsp baking soda  3 TB CornmealDirections   Preheat over to 350 degrees.  Mix ingredients together.  Bake in greased 9 x 13 pan for 30 minutes.","categories": ["cornbread","bread"],
+        "tags": ["cornbread"],
+        "url": "https://hendricksfamilycookbook.com/recipes/cornbread/"
+      },{
+        "title": "Refrigerator Rolls",
+        "excerpt":"Grandma Eliason’s famous homemade rolls. Ingredients ","categories": ["rolls","bread"],
+        "tags": ["rolls"],
+        "url": "https://hendricksfamilycookbook.com/recipes/refrigerator-rolls/"
       },]
