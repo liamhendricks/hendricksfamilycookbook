@@ -12,7 +12,6 @@ author: Catherine Hendricks
 Grandma Eliason's famous homemade rolls. 
 
 ## Ingredients
-
 * 1 cup shortening
 * 1 cup boiling water
 * 3/4 cup sugar
@@ -23,7 +22,6 @@ Grandma Eliason's famous homemade rolls.
 * 2 yeast dissolved in 1/2 cup warm water
 
 ### Directions
-
 1. Whip shortening and boiling water. Add sugar, salt, cold water, eggs, and yeast.
 2. Add flour, mixing well. 
 3. Cover with damp cloth and set in refrigerator.
