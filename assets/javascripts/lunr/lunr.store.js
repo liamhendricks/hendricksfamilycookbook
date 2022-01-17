@@ -110,7 +110,17 @@ var store = [{
         "url": "https://hendricksfamilycookbook.com/recipes/cornbread/"
       },{
         "title": "Refrigerator Rolls",
-        "excerpt":"Grandma Eliason’s famous homemade rolls. Ingredients ","categories": ["rolls","bread"],
+        "excerpt":"Grandma Eliason’s famous homemade rolls. Ingredients 1 cup shortening 1 cup boiling water 3/4 cup sugar 2 tsp salt 1 cup cold water 4 beaten eggs 7 1/2 cups flour 2 yeast dissolved in 1/2 cup warm waterDirections Whip shortening and boiling water. Add sugar, salt, cold water, eggs, and...","categories": ["rolls","bread"],
         "tags": ["rolls"],
         "url": "https://hendricksfamilycookbook.com/recipes/refrigerator-rolls/"
+      },{
+        "title": "Pumpkin Bread",
+        "excerpt":"Shayne Eliason’s yummy pumpkin bread. Ingredients 3 cups sugar 1 cup oil 4 eggs 2 cups pumpkin 2/3 cup water 3 1/2 cup flour 2 tsp baking soda 1/2 tsp baking powder 2 tsp cinnamon 1 tsp cloves 1 tsp pumpkin pie spiceDirections Mix wet and dry ingredients separately and...","categories": ["pumpkin bread","breads"],
+        "tags": ["Pumpkin bread"],
+        "url": "https://hendricksfamilycookbook.com/recipes/pumpkin-bread/"
+      },{
+        "title": "Freezer Tomato Sauce",
+        "excerpt":"We make this every year after the tomato harvest. Ingredients 6 lbs. Roma tomatoes (plum or Roma) 1/2 cup chopped onion 1/2 cup chopped celery 3 large cloves garlic, minced 2 TB olive oil or cooking oil 2 tsp sugar1-2 tsp salt1/2 tsp pepper1/8 tsp ground red cayenne pepper (optional)Directions...","categories": ["tomato sauce","freezer"],
+        "tags": ["tomato sauce"],
+        "url": "https://hendricksfamilycookbook.com/recipes/freezer-tomato-sauce/"
       },]
