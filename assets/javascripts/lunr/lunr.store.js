@@ -98,4 +98,9 @@ var store = [{
         "excerpt":"A favorite salad of mine from a neighborhood friend, Heidi Richards. Ingredients Head of lettuce 2 tomatoes, wedged 1/2 cup green onions 1 cup corn chips 1/2 cup cheddar cheese, gratedDressing Ingredients 1/2 cup mashed avocado 1 TB lemon juice 1/2 cup sour cream 1/3 cup oil 1 clove garlic,...","categories": ["Salad"],
         "tags": ["Salad","Guacamole"],
         "url": "https://hendricksfamilycookbook.com/recipes/guacamole-salad/"
+      },{
+        "title": "Swedish Twists",
+        "excerpt":"A Christmas morning tradition from the Shumways. Ingredients 1 cup buttermilk 1 yeast dissolved in 1/4 cup water 1/2 cube butter 1 egg slightly beaten 3 TB sugar 1/4 tsp baking soda 1 tsp salt 3 3/4 cup flourDirections Bring buttermilk just to boiling. Add butter, sugar and salt. Pour...","categories": ["swedish twists","cinnamon rolls"],
+        "tags": ["swedish twist"],
+        "url": "https://hendricksfamilycookbook.com/recipes/swedish-twists/"
       },]
