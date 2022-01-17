@@ -26,6 +26,6 @@ A family favorite from my favorite Aunt Janice!
 * 1/2 cup sugar 
 * 3 TBS red wine vinegar 
 
-###Variation
+### Variation
 * Dried Cranberries
 
