@@ -7,6 +7,8 @@ tags:
 - Salad
 - Guacamole
 author: Catherine Hendricks
+image:
+  Key 1: 
 ---
 
 A favorite salad of mine from a neighborhood friend, Heidi Richards.
