@@ -8,7 +8,7 @@ tags:
 - bread
 author: Catherine Hendricks
 image:
-  path: 
+  path: "/uploads/banana%20bread.jpg"
 ---
 
 This recipe is scrumptious and works every time! From one of my favorite neighbors, Natalie Rogers.
