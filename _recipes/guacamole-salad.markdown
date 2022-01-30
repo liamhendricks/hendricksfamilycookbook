@@ -8,7 +8,7 @@ tags:
 - Guacamole
 author: Catherine Hendricks
 image:
-  Key 1: "/uploads/Guacamole%20salad.jpg"
+  path: "/uploads/Guacamole%20salad.jpg"
 ---
 
 A favorite salad of mine from a neighborhood friend, Heidi Richards.
