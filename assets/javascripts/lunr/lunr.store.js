@@ -123,4 +123,9 @@ var store = [{
         "excerpt":"We make this every year after the tomato harvest. Ingredients 6 lbs. Roma tomatoes (plum or Roma) 1/2 cup chopped onion 1/2 cup chopped celery 3 large cloves garlic, minced 2 TB olive oil or cooking oil 2 tsp sugar1-2 tsp salt1/2 tsp pepper1/8 tsp ground red cayenne pepper (optional)Directions...","categories": ["tomato sauce","freezer"],
         "tags": ["tomato sauce"],
         "url": "https://hendricksfamilycookbook.com/recipes/freezer-tomato-sauce/"
+      },{
+        "title": "Banana Bread",
+        "excerpt":"This recipe is scrumptious and works every time! From one of my favorite neighbors, Natalie Rogers. ##Ingredients 3 ripebananas ","categories": [],
+        "tags": [],
+        "url": "https://hendricksfamilycookbook.com/recipes/banana-bread/"
       },]
