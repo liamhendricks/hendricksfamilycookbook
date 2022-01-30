@@ -125,7 +125,7 @@ var store = [{
         "url": "https://hendricksfamilycookbook.com/recipes/freezer-tomato-sauce/"
       },{
         "title": "Banana Bread",
-        "excerpt":"This recipe is scrumptious and works every time! From one of my favorite neighbors, Natalie Rogers. ##Ingredients 3 ripebananas ","categories": [],
-        "tags": [],
+        "excerpt":"This recipe is scrumptious and works every time! From one of my favorite neighbors, Natalie Rogers. Ingredients 3 ripe bananas 2 eggs 1 1/2 C sugar 2/3 C oil (or applesauce) 1/2 C sour cream 2 C flour 1 1/4 tsp. baking soda 3/4 tsp. salt 1 tsp. vanillaDirections Grease...","categories": ["bread"],
+        "tags": ["banana bread","bread"],
         "url": "https://hendricksfamilycookbook.com/recipes/banana-bread/"
       },]
