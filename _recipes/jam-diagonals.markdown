@@ -7,6 +7,7 @@ tags:
 - jam
 - shortbread
 author: Catherine Hendricks
+image: "/uploads/jam.jpg"
 ---
 
 Festive shortbread cookie with raspberry jam. Recipe from high school friend, Holly Blomquist. 
