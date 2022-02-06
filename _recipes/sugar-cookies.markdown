@@ -7,6 +7,8 @@ tags:
 - sugar cookies
 - cream cheese
 author: Catherine Hendricks
+image:
+- "/uploads/Sugar%20Cookie.jpg"
 ---
 
 Best sugar cookie recipe from Kathy Ashton, a neighborhood friend. 
