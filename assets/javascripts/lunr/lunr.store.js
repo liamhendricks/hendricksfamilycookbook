@@ -129,6 +129,11 @@ var store = [{
         "tags": ["banana bread","bread"],
         "url": "https://hendricksfamilycookbook.com/recipes/banana-bread/"
       },{
+        "title": "Fettucine Alfredo",
+        "excerpt":"A Hendricks family staple. Ingredients 1/2 of a (1 lb.) pkg fettucine 1/3 cup softened butter 3/4 cup whip cream 3/4 cup freshly grated parmesan cheese 1/2 tsp salt 1/8 tsp white pepper dash nutmegDirections Prepare pasta according to package directions, drain. Remove pan from heat. In same pan, combine...","categories": ["pasta","dinner"],
+        "tags": ["pasta","alfredo"],
+        "url": "https://hendricksfamilycookbook.com/recipes/fettucine-alfredo/"
+      },{
         "title": "Balsamic Dressing",
         "excerpt":"From one of my Bunco friends, Kim Butler. Ingredients 1/2 cup canola oil 1/4 cup balsamic vinegar 1/4 cup sugar 1/2 tsp worcestshire sauce 1/2 tsp garlic salt 1/2 tsp saltDirections Mix all ingredients in a blender until it emulsifies. If you want it a little thinner, add a 1/4...","categories": ["Salad Dressing"],
         "tags": ["Balsamic Dressing"],
@@ -140,7 +145,12 @@ var store = [{
         "url": "https://hendricksfamilycookbook.com/recipes/teriyaki-shish-kabobs/"
       },{
         "title": "Pasta Raphael",
-        "excerpt":"A favorite (meatless) pasta dish from one of my high school friends, Holly Blomquist.’ ##Ingredients 2 (6 oz.) jars marinated artichoke hearts 1/4 cup oil 2 cups chopped onion 2 TBS minced garlic 1/2 tsp dried oregano 1/2 tsp dried basil 1 tsp black pepper 1/2 tsp salt 1 (28...","categories": ["pasta"],
+        "excerpt":"A favorite (meatless) pasta dish from one of my high school friends, Holly Blomquist. Ingredients 2 (6 oz.) jars marinated artichoke hearts 1/4 cup oil 2 cups chopped onion 2 TBS minced garlic 1/2 tsp dried oregano 1/2 tsp dried basil 1 tsp black pepper 1/2 tsp salt 1 (28...","categories": ["pasta"],
         "tags": ["pasta","artichokes"],
         "url": "https://hendricksfamilycookbook.com/recipes/pasta-raphael/"
+      },{
+        "title": "Linguine w/ Salmon in Cream Sauce",
+        "excerpt":"Catherine’s favorite. Ingredients 8 oz. dried linguine 6 oz. cooked fresh salmon 2 green onions, sliced 1 clove garlic, minced 1 TBS butter 1 cup whip cream 1 tsp dillweed lemon zest 1 tsp pepper 2 TBS parmesan cheeseDirections Cook pasta according to directions and keep warm. Cut cooked salmon...","categories": ["pasta","Dinner","lunch"],
+        "tags": ["pasta","salmon"],
+        "url": "https://hendricksfamilycookbook.com/recipes/linguine-with-salmon-in-cream-sauce/"
       },]
