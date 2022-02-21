@@ -10,7 +10,7 @@ author: Catherine Hendricks
 
 From one of my Bunco friends, Kim Butler. 
 
-##Ingredients
+## Ingredients
 * 1/2 cup canola oil
 * 1/4 cup balsamic vinegar
 * 1/4 cup sugar
@@ -18,5 +18,5 @@ From one of my Bunco friends, Kim Butler.
 * 1/2 tsp garlic salt
 * 1/2 tsp salt
 
-###Directions
+### Directions
 Mix all ingredients in a blender until it emulsifies. If you want it a little thinner, add a 1/4 cup to 1/2 cup of water. 
