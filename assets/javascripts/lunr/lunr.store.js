@@ -130,7 +130,17 @@ var store = [{
         "url": "https://hendricksfamilycookbook.com/recipes/banana-bread/"
       },{
         "title": "Balsamic Dressing",
-        "excerpt":"From one of my Bunco friends, Kim Butler. ##Ingredients 1/2 cup canola oil 1/4 cup balsamic vinegar 1/4 cup sugar 1/2 tsp worcestshire sauce 1/2 tsp garlic salr 1/2 tsp salt###DirectionsMix all ingredients in a blender until it emulsifies. If you want it a little thinner, add a 1/4 cup...","categories": ["Salad Dressing"],
+        "excerpt":"From one of my Bunco friends, Kim Butler. Ingredients 1/2 cup canola oil 1/4 cup balsamic vinegar 1/4 cup sugar 1/2 tsp worcestshire sauce 1/2 tsp garlic salt 1/2 tsp saltDirections Mix all ingredients in a blender until it emulsifies. If you want it a little thinner, add a 1/4...","categories": ["Salad Dressing"],
         "tags": ["Balsamic Dressing"],
         "url": "https://hendricksfamilycookbook.com/recipes/balsamic-dressing/"
+      },{
+        "title": "Teriyaki Shish Kabobs",
+        "excerpt":"A favorite marinade from Catherine. Can’t remember where I found it! Ingredients 1/2 cup ketchup 1/2 cup soy sauce 1/2 cup sugar 1 tsp ginger 1 tsp ginger powder 2 lbs. boneless beef sirloin steak, cut into chunks pineapple, cut into 1-inch chunks 2-3 small zucchini, cut into 1-inch chunks...","categories": ["Dinner"],
+        "tags": ["Kabobs","Grill"],
+        "url": "https://hendricksfamilycookbook.com/recipes/teriyaki-shish-kabobs/"
+      },{
+        "title": "Pasta Raphael",
+        "excerpt":"A favorite (meatless) pasta dish from one of my high school friends, Holly Blomquist.’ ##Ingredients 2 (6 oz.) jars marinated artichoke hearts 1/4 cup oil 2 cups chopped onion 2 TBS minced garlic 1/2 tsp dried oregano 1/2 tsp dried basil 1 tsp black pepper 1/2 tsp salt 1 (28...","categories": ["pasta"],
+        "tags": ["pasta","artichokes"],
+        "url": "https://hendricksfamilycookbook.com/recipes/pasta-raphael/"
       },]
