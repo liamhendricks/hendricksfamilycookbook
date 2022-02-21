@@ -128,4 +128,9 @@ var store = [{
         "excerpt":"This recipe is scrumptious and works every time! From one of my favorite neighbors, Natalie Rogers. Ingredients 3 ripe bananas 2 eggs 1 1/2 C sugar 2/3 C oil (or applesauce) 1/2 C sour cream 2 C flour 1 1/4 tsp. baking soda 3/4 tsp. salt 1 tsp. vanillaDirections Grease...","categories": ["bread"],
         "tags": ["banana bread","bread"],
         "url": "https://hendricksfamilycookbook.com/recipes/banana-bread/"
+      },{
+        "title": "Balsamic Dressing",
+        "excerpt":"From one of my Bunco friends, Kim Butler. ##Ingredients 1/2 cup canola oil 1/4 cup balsamic vinegar 1/4 cup sugar 1/2 tsp worcestshire sauce 1/2 tsp garlic salr 1/2 tsp salt###DirectionsMix all ingredients in a blender until it emulsifies. If you want it a little thinner, add a 1/4 cup...","categories": ["Salad Dressing"],
+        "tags": ["Balsamic Dressing"],
+        "url": "https://hendricksfamilycookbook.com/recipes/balsamic-dressing/"
       },]
