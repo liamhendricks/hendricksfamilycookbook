@@ -9,9 +9,9 @@ tags:
 author: Catherine Hendricks
 ---
 
-A favorite (meatless) pasta dish from one of my high school friends, Holly Blomquist.'
+A favorite (meatless) pasta dish from one of my high school friends, Holly Blomquist.
 
-##Ingredients
+## Ingredients
 * 2 (6 oz.) jars marinated artichoke hearts
 * 1/4 cup oil
 * 2 cups chopped onion
@@ -24,7 +24,7 @@ A favorite (meatless) pasta dish from one of my high school friends, Holly Blomq
 * 1/4 cup parmesan cheese 
 * 1/4 cup chopped parsley
 
-###Directions
+### Directions
 1. Drain artichoke hearts, reserving oil. 
 2. Heat olive oil. Add onion, garlic, oregano, basil, salt, pepper, and reserved artichoke oil. Sauté over medium to low heat. 
 3. Add tomatoes and simmer 30 minutes. 
