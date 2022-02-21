@@ -15,7 +15,7 @@ From one of my Bunco friends, Kim Butler.
 * 1/4 cup balsamic vinegar
 * 1/4 cup sugar
 * 1/2 tsp worcestshire sauce
-* 1/2 tsp garlic salr
+* 1/2 tsp garlic salt
 * 1/2 tsp salt
 
 ###Directions
