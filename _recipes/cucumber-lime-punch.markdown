@@ -13,7 +13,7 @@ author: Catherine Hendricks
 Favorite punch for the Hendricks bunch. 
 
 ## Ingredients
-* 2 cans lime frozen concentrate
+* 2 cans lime frozen concentrate (no water added)
 * 2 2-liter Diet Sprite 
 * 1 cucumber, sliced
 * Ice 
