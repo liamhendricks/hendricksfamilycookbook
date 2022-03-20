@@ -173,4 +173,14 @@ var store = [{
         "excerpt":"Dad’s famous rub for ribs. Ingredients 1/4 cup dark brown sugar 1 TB coarse sea salt 2 tsp cracked black pepper 2 tsp smoked paprika 2 tsp garlic powder 2 tsp onion powder 1 tsp ground mustard 1/2 tsp cayenne pepperDirections In a small bowl combine all of the ingredients...","categories": ["Dinner","Ribs"],
         "tags": ["Rub","Ribs","BBQ"],
         "url": "https://hendricksfamilycookbook.com/recipes/sweet-rub-for-ribs/"
+      },{
+        "title": "Cucumber-Lime Punch",
+        "excerpt":"Favorite punch for the Hendricks bunch. Ingredients   2 cans lime frozen concentrate (no water added)  2 2-liter Diet Sprite  1 cucumber, sliced  IceDirections   Depending on size of container, add all ingredients (or half) and then add remaining as needed.","categories": ["drinks"],
+        "tags": ["drinks","cucumber","lime"],
+        "url": "https://hendricksfamilycookbook.com/recipes/cucumber-lime-punch/"
+      },{
+        "title": "Strawberry Lemonade",
+        "excerpt":"Yummy lemonade from Keri Rooth. Ingredients   1 can pink frozen lemonade (no water added)  2 liter Diet Sprite  1/3 cup sugar  1 small bag frozen strawberries","categories": ["drinks"],
+        "tags": ["drinks","strawberry","lemonade"],
+        "url": "https://hendricksfamilycookbook.com/recipes/strawberry-lemonade/"
       },]
