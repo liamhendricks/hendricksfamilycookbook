@@ -183,4 +183,14 @@ var store = [{
         "excerpt":"Yummy lemonade from Keri Rooth. Ingredients   1 can pink frozen lemonade (no water added)  2 liter Diet Sprite  1/3 cup sugar  1 small bag frozen strawberries","categories": ["drinks"],
         "tags": ["drinks","strawberry","lemonade"],
         "url": "https://hendricksfamilycookbook.com/recipes/strawberry-lemonade/"
+      },{
+        "title": "Honey-Mustard Dressing",
+        "excerpt":"Fantastic salad dressing by Shayne Eliason. Ingredients   1/2 cup vinegar (rice or balsamic)  1/4 oil (vegetable or olive)  1 TB brown sugar  1 TB honey  2 tsp Dijon mustard  1 cloves of garlic (finely minced)  1/4 tsp salt  1/4 tsp pepper","categories": [],
+        "tags": [],
+        "url": "https://hendricksfamilycookbook.com/recipes/honey-mustard-dressing/"
+      },{
+        "title": "Honey Soy Glaze for Salmon",
+        "excerpt":"Delicious glaze for salmon by Shayne Eliason. Ingredients 2 cups soy sauce 1/3 rice vinegar 3/4 cup honey 1/2 cup cold water 1/2 cup corn starchDirections Preheat pan to high heat. When pan is hot, add soy sauce. Stir in vinegar and honey. Mix cold water and cornstarch. Add to...","categories": ["salmon","Dinner"],
+        "tags": ["salmon","honey","soy"],
+        "url": "https://hendricksfamilycookbook.com/recipes/honey-soy-glaze-for-salmon/"
       },]
