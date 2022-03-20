@@ -155,7 +155,7 @@ var store = [{
         "url": "https://hendricksfamilycookbook.com/recipes/linguine-with-salmon-in-cream-sauce/"
       },{
         "title": "Ice Cream Sandwiches",
-        "excerpt":"Recipe from Grandma Eliason. A Deer Valley treat. ** Ingredients 1 egg 1/2 cup shortening 1/2 cup butter, softened 1 tsp vanilla 1 package Devil’s Food cake mix 1/2 gallon brick ice cream (vanilla or any flavor)*** Directions Preheat oven to 375 degrees. Beat egg, shortening, butter, vanilla and half...","categories": ["desserts","ice cream sandwiches"],
+        "excerpt":"Recipe from Grandma Eliason. A Deer Valley treat. **Ingredients 1 egg 1/2 cup shortening 1/2 cup butter, softened 1 tsp vanilla 1 package Devil’s Food cake mix 1/2 gallon brick ice cream (vanilla or any flavor)***Directions Preheat oven to 375 degrees. Beat egg, shortening, butter, vanilla and half of the...","categories": ["desserts","ice cream sandwiches"],
         "tags": ["desserts","ice cream","ice cream sandwiches"],
         "url": "https://hendricksfamilycookbook.com/recipes/ice-cream-sandwiches/"
       },]
