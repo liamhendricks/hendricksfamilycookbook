@@ -22,7 +22,7 @@ Pinterest recipe - Honey Lime Chicken Enchiladas are loaded with juicy marinated
 * 1 tsp garlic, minced (2-3 cloves)
 * 10 corn or flour tortillas
 * 1 pound Monterey Jack Cheese, shredded
-* 16 oz. green enchilada sauce (Las Palmas branc)
+* 16 oz. green enchilada sauce (Las Palmas brand)
 * 1/2 cup heavy cream
 
 ### Directions
