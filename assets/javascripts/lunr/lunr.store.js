@@ -168,4 +168,9 @@ var store = [{
         "excerpt":"Delicious, flavorful chicken recipe with rosemary, onions, and mushrooms. Ingredients 4 chicken breasts 6 TB parmesan cheese 3 TB flour 2 TB olive oil 1 cup sliced mushrooms 1/2 cup onion, finely chopped 1/2 tsp rosemary 1 can (14 1/2 oz.) Italian-Style stewed tomatoesDirections Flatten chicken breasts slightly. Coat chicken...","categories": ["Chicken","Dinner"],
         "tags": ["chicken","Mushrooms"],
         "url": "https://hendricksfamilycookbook.com/recipes/Sicilian-Chicken/"
+      },{
+        "title": "Sweet Rub for Ribs",
+        "excerpt":"Dad’s famous rub for ribs. Ingredients 1/4 cup dark brown sugar 1 TB coarse sea salt 2 tsp cracked black pepper 2 tsp smoked paprika 2 tsp garlic powder 2 tsp onion powder 1 tsp ground mustard 1/2 tsp cayenne pepperDirections In a small bowl combine all of the ingredients...","categories": ["Dinner","Ribs"],
+        "tags": ["Rub","Ribs","BBQ"],
+        "url": "https://hendricksfamilycookbook.com/recipes/sweet-rub-for-ribs/"
       },]
