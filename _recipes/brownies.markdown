@@ -1,6 +1,11 @@
 ---
 title: Brownies
 date: 2022-03-20 23:48:00 Z
+categories:
+- desserts
+tags:
+- Dessert
+- brownies
 author: Catherine Hendricks
 ---
 
