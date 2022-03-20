@@ -155,7 +155,12 @@ var store = [{
         "url": "https://hendricksfamilycookbook.com/recipes/linguine-with-salmon-in-cream-sauce/"
       },{
         "title": "Ice Cream Sandwiches",
-        "excerpt":"Recipe from Grandma Eliason. A Deer Valley treat. ##Ingredients 1 egg 1/2 cup shortening 1/2 cup butter, softened 1 tsp vanilla 1 package Devil’s Food cake mix 1/2 gallon brick ice cream (vanilla or any flavor)###Directions Preheat oven to 375 degrees. Beat egg, shortening, butter, vanilla and half of the...","categories": ["desserts","ice cream sandwiches"],
+        "excerpt":"Recipe from Grandma Eliason. A Deer Valley treat. Ingredients 1 egg 1/2 cup shortening 1/2 cup butter, softened 1 tsp vanilla 1 package Devil’s Food cake mix 1/2 gallon brick ice cream (vanilla or any flavor)Directions Preheat oven to 375 degrees. Beat egg, shortening, butter, vanilla and half of the...","categories": ["desserts","ice cream sandwiches"],
         "tags": ["desserts","ice cream","ice cream sandwiches"],
         "url": "https://hendricksfamilycookbook.com/recipes/ice-cream-sandwiches/"
+      },{
+        "title": "Honey Lime Chicken Enchiladas",
+        "excerpt":"Pinterest recipe - Honey Lime Chicken Enchiladas are loaded with juicy marinated chicken, smothered in creamy enchilada sauce and topped with melted cheese. Ingredients 1 small onion, diced 3 chicken breast halves 1/2 cup chicken broth 1 TB chili powder 1 tsp garlic, minced (2-3 cloves) 10 corn or flour...","categories": ["Enchiladas","Dinner","Mexican"],
+        "tags": ["Enchiladas","Chicken","Honey Lime"],
+        "url": "https://hendricksfamilycookbook.com/recipes/honey-lime-chicken-enchiladas/"
       },]
