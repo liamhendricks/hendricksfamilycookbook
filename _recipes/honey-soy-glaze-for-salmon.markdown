@@ -8,6 +8,7 @@ tags:
 - salmon
 - honey
 - soy
+author: Catherine Hendricks
 ---
 
 Delicious glaze for salmon by Shayne Eliason. 
