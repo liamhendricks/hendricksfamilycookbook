@@ -8,6 +8,7 @@ tags:
 - desserts
 - ice cream
 - ice cream sandwiches
+author: Catherine Hendricks
 ---
 
 Recipe from Grandma Eliason. A Deer Valley treat. 
