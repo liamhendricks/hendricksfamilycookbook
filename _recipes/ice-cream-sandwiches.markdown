@@ -13,7 +13,7 @@ author: Catherine Hendricks
 
 Recipe from Grandma Eliason. A Deer Valley treat. 
 
-** Ingredients
+**Ingredients
 * 1 egg
 * 1/2 cup shortening
 * 1/2 cup butter, softened
@@ -21,7 +21,7 @@ Recipe from Grandma Eliason. A Deer Valley treat.
 * 1 package Devil's Food cake mix
 * 1/2 gallon brick ice cream (vanilla or any flavor)
 
-*** Directions
+***Directions
 1. Preheat oven to 375 degrees.
 2. Beat egg, shortening, butter, vanilla and half of the dry cake mix until smooth. Then stir in remaining cake mix. 
 3. Divide dough into 4 equal parts. Roll each part into a 10" x 6" rectangle. (Mark out the rectangle measurements with a pencil on pastry cloth, and use a piece of wax paper on top of the dough. It will roll out easily.)
