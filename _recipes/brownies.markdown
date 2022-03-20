@@ -29,4 +29,5 @@ Famous brownie recipe from the Thornock family.
 
 ### Directions
 1. Stir wet ingredients, followed by dry ingredients. 
-2. Bake at 350-365 degrees for 28 minutes. 
+2. Pour into a greased 9 x 13 pan. 
+3. Bake at 350-365 degrees for 28 minutes. 
