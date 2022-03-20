@@ -7,6 +7,7 @@ categories:
 tags:
 - chicken
 - Mushrooms
+author: Catherine Hendricks
 ---
 
 Delicious, flavorful chicken recipe with rosemary, onions, and mushrooms. 
@@ -23,3 +24,6 @@ Delicious, flavorful chicken recipe with rosemary, onions, and mushrooms.
 
 ### Directions
 1. Flatten chicken breasts slightly. 
+2. Coat chicken with 4 TB parmesan cheese, then flour, salt and pepper to taste. 
+3. In skillet, cook chicken in oil over med-high heat until done. Remove to serving dish; keep warm.
+4. In same skillet, cook mushrooms, onions, rosemary until soft. Add tomatoes. Cook uncovered until thickened. Spoon over chicken, top with remaining 2 TB parmesan cheese Serve over pasta.
