@@ -163,4 +163,9 @@ var store = [{
         "excerpt":"Pinterest recipe - Honey Lime Chicken Enchiladas are loaded with juicy marinated chicken, smothered in creamy enchilada sauce and topped with melted cheese. Ingredients 1 small onion, diced 3 chicken breast halves 1/2 cup chicken broth 1 TB chili powder 1 tsp garlic, minced (2-3 cloves) 10 corn or flour...","categories": ["Enchiladas","Dinner","Mexican"],
         "tags": ["Enchiladas","Chicken","Honey Lime"],
         "url": "https://hendricksfamilycookbook.com/recipes/honey-lime-chicken-enchiladas/"
+      },{
+        "title": "Sicilian Chicken",
+        "excerpt":"Delicious, flavorful chicken recipe with rosemary, onions, and mushrooms. Ingredients 4 chicken breasts 6 TB parmesan cheese 3 TB flour 2 TB olive oil 1 cup sliced mushrooms 1/2 cup onion, finely chopped 1/2 tsp rosemary 1 can (14 1/2 oz.) Italian-Style stewed tomatoesDirections Flatten chicken breasts slightly. Coat chicken...","categories": ["Chicken","Dinner"],
+        "tags": ["chicken","Mushrooms"],
+        "url": "https://hendricksfamilycookbook.com/recipes/Sicilian-Chicken/"
       },]
