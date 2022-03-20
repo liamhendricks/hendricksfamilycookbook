@@ -153,4 +153,9 @@ var store = [{
         "excerpt":"Catherine’s favorite. Ingredients 8 oz. dried linguine 6 oz. cooked fresh salmon 2 green onions, sliced 1 clove garlic, minced 1 TBS butter 1 cup whip cream 1 tsp dillweed lemon zest 1 tsp pepper 2 TBS parmesan cheeseDirections Cook pasta according to directions and keep warm. Cut cooked salmon...","categories": ["pasta","Dinner","lunch"],
         "tags": ["pasta","salmon"],
         "url": "https://hendricksfamilycookbook.com/recipes/linguine-with-salmon-in-cream-sauce/"
+      },{
+        "title": "Ice Cream Sandwiches",
+        "excerpt":"Recipe from Grandma Eliason. A Deer Valley treat. ** Ingredients 1 egg 1/2 cup shortening 1/2 cup butter, softened 1 tsp vanilla 1 package Devil’s Food cake mix 1/2 gallon brick ice cream (vanilla or any flavor)*** Directions Preheat oven to 375 degrees. Beat egg, shortening, butter, vanilla and half...","categories": ["desserts","ice cream sandwiches"],
+        "tags": ["desserts","ice cream","ice cream sandwiches"],
+        "url": "https://hendricksfamilycookbook.com/recipes/ice-cream-sandwiches/"
       },]
