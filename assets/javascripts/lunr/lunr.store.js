@@ -193,4 +193,14 @@ var store = [{
         "excerpt":"Delicious glaze for salmon by Shayne Eliason. Ingredients 2 cups soy sauce 1/3 rice vinegar 3/4 cup honey 1/2 cup cold water 1/2 cup corn starchDirections Preheat pan to high heat. When pan is hot, add soy sauce. Stir in vinegar and honey. Mix cold water and cornstarch. Add to...","categories": ["salmon","Dinner"],
         "tags": ["salmon","honey","soy"],
         "url": "https://hendricksfamilycookbook.com/recipes/honey-soy-glaze-for-salmon/"
+      },{
+        "title": "Thornock Brownies",
+        "excerpt":"Famous brownie recipe from the Thornock family. Ingredients 1 1/2 cups sugar 2 tsp vanilla 1 tsp salt 1/2 cup Crisco 4 eggs 1/2 cup butter 1/2 cup cocoa 1/2 cup flourFrosting 1/4 cup butter 1/4 cup milk 1/8 tsp salt 3 TB cocoaDirections Stir wet ingredients, followed by dry...","categories": ["desserts"],
+        "tags": ["brownies","desserts"],
+        "url": "https://hendricksfamilycookbook.com/recipes/thornock-brownies/"
+      },{
+        "title": "Chocolate Brownies",
+        "excerpt":"Brownie recipe from neighborhood friend, Heidi Richards that rivals the Thornock recipe. Ingredients 1 cup butter 2 cups sugar 4 eggs 1 tsp salt 2 tsp vanilla 1 cup flour 1 cup chocolate chipsDirections Melt butter and add other ingredients. Pour into greased 9 x 13 pan. Bake at 350...","categories": ["desserts","brownies"],
+        "tags": ["desserts","brownies"],
+        "url": "https://hendricksfamilycookbook.com/recipes/chocolate-brownies/"
       },]
