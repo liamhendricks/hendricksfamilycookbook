@@ -7,6 +7,7 @@ tags:
 - pasta
 - artichokes
 author: Catherine Hendricks
+image: "/uploads/Pasta%20Raphael.jpg"
 ---
 
 A favorite (meatless) pasta dish from one of my high school friends, Holly Blomquist.
