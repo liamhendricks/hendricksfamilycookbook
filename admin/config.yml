@@ -5,7 +5,7 @@ backend:
   squash_merges: true
 
 publish_mode: editorial_workflow
-media_folder: "uploads"
+media_folder: "_uploads"
 
 collections:
   - name: "recipes"
