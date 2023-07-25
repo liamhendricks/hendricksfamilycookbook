@@ -2,8 +2,7 @@
 title: Small Brownie Recipe
 date: 2022-03-20 23:59:00 Z
 published: false
-categories:
-- Dessert
+categories: Dessert
 author: Catherine Hendricks
 ---
 

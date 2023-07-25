@@ -1,8 +1,7 @@
 ---
 title: Linguine w/ Salmon in Cream Sauce
 date: 2022-02-21 15:01:00 Z
-categories:
-- Dinner
+categories: Dinner
 author: Catherine Hendricks
 ---
 

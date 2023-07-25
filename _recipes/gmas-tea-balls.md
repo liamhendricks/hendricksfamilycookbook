@@ -1,8 +1,7 @@
 ---
 title: Grandma Eliason's Tea Balls
 date: 2021-12-30 23:10:00 Z
-categories:
-- Dessert
+categories: Dessert
 author: Liam Hendricks
 image:
   path: "/uploads/PXL_20211220_044656524.jpg"

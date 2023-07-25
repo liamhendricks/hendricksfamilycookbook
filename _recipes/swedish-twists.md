@@ -1,8 +1,7 @@
 ---
 title: Swedish Twists
 date: 2022-01-17 15:29:00 Z
-categories:
-- Dessert
+categories: Dessert
 author: Catherine Hendricks
 ---
 

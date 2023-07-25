@@ -1,8 +1,7 @@
 ---
 title: Ginger Snap Cookies
 date: 2021-12-31 00:21:00 Z
-categories:
-- Dessert
+categories: Dessert
 author: Catherine Hendricks
 ---
 

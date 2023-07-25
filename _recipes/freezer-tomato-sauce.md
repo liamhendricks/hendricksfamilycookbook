@@ -1,8 +1,7 @@
 ---
 title: Freezer Tomato Sauce
 date: 2022-01-17 20:54:00 Z
-categories:
-- Other
+categories: Other
 author: Catherine Hendricks
 ---
 

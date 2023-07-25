@@ -1,8 +1,7 @@
 ---
 title: Banana Bread
 date: 2022-01-30 00:40:00 Z
-categories:
-- Bread
+categories: Bread
 author: Catherine Hendricks
 image:
   path: "/uploads/banana%20bread.jpg"
@@ -27,8 +26,4 @@ This recipe is scrumptious and works every time! From one of my favorite neighbo
 3. Combine flour, baking soda, salt to banana mixture. Add Vanilla. Combine until smooth. 
 4. Pour batter into each loaf pan (or bundt pan).
 5. Bake at 325 degrees for 50-60 minutes. Let cool. 
-
-
-
-
 

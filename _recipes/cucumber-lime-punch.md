@@ -1,8 +1,7 @@
 ---
 title: Cucumber-Lime Punch
 date: 2022-03-20 23:21:00 Z
-categories:
-- Drinks
+categories: Drinks
 author: Catherine Hendricks
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: Cornbread
 date: 2022-01-17 15:57:00 Z
-categories:
-- Bread
+categories: Bread
 author: 'Catherine Hendricks '
 ---
 

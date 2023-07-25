@@ -1,8 +1,7 @@
 ---
 title: Fettucine Alfredo
 date: 2022-02-21 08:00:00 Z
-categories:
-- Dinner
+categories: Dinner
 author: Catherine Hendricks
 ---
 

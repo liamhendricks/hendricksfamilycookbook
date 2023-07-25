@@ -1,8 +1,7 @@
 ---
 title: Pumpkin Bread
 date: 2022-01-17 20:49:00 Z
-categories:
-- Bread
+categories: Bread
 author: Catherine Hendricks
 ---
 

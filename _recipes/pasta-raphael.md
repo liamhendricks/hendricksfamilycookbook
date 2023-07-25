@@ -1,8 +1,7 @@
 ---
 title: Pasta Raphael
 date: 2022-02-21 14:45:00 Z
-categories:
-- Dinner
+categories: Dinner
 author: Catherine Hendricks
 image:
   path: "/uploads/Pasta%20Raphael.jpg"

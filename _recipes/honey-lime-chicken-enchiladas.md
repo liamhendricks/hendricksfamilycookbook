@@ -1,8 +1,7 @@
 ---
 title: Honey Lime Chicken Enchiladas
 date: 2022-03-20 16:54:00 Z
-categories:
-- Dinner
+categories: Dinner
 author: Catherine Hendricks
 ---
 

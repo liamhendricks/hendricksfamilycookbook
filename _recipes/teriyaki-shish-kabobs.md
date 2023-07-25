@@ -1,8 +1,7 @@
 ---
 title: Teriyaki Shish Kabobs
 date: 2022-02-21 14:36:00 Z
-categories:
-- Dinner
+categories: Dinner
 author: Catherine Hendricks
 ---
 

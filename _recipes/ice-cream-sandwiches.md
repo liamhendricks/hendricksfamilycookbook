@@ -1,8 +1,7 @@
 ---
 title: Ice Cream Sandwiches
 date: 2022-03-20 16:28:00 Z
-categories:
-- Dessert
+categories: Dessert
 author: Catherine Hendricks
 ---
 
