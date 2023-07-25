@@ -1,7 +1,9 @@
 ---
 title: Banana Bread
-date: 2022-01-30 00:40:00 Z
 author: Catherine Hendricks
+date: 2022-01-30 00:40:00 Z
+image: https://www.simplyrecipes.com/thmb/tR-5eHAZ3lgNR6Yvu3yxdHMNpk8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Easy-Banana-Bread-LEAD-2-2-63dd39af009945d58f5bf4c2ae8d6070.jpg
+categories: Bread
 ---
 
 This recipe is scrumptious and works every time! From one of my favorite neighbors, Natalie Rogers.
