@@ -19,5 +19,5 @@ collections:
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Categories", name: "categories", widget: "select", options: ["Soup", "Dessert", "Dinner", "Salad", "Drinks", "Other"]}
+      - {label: "Categories", name: "categories", widget: "select", options: ["Soup","Bread", "Dessert", "Dinner", "Salad", "Drinks", "Other"]}
       - {label: "Body", name: "body", widget: "markdown"}
