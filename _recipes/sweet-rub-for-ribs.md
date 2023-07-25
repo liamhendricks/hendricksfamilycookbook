@@ -1,8 +1,8 @@
 ---
 title: Sweet Rub for Ribs
-date: 2022-03-20 17:25:00 Z
-categories: Dinner
 author: Catherine Hendricks
+date: 2022-03-20 17:25:00 Z
+categories: Other
 ---
 
 Dad's famous rub for ribs.
