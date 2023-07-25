@@ -1,0 +1,25 @@
+backend:
+  name: git-gateway
+  branch: main
+  identity_url: "https://yoursite.com/.netlify/identity"
+  gateway_url: "https://yoursite.com/.netlify/git"
+  squash_merges: true
+
+publish_mode: editorial_workflow
+media_folder: "uploads"
+
+site_url: https://yoursite.com
+logo_url: https://yoursite.com/assets/img/logo.svg
+
+collections:
+  - name: "recipes"
+    label: "Recipes"
+    folder: "_recipes"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
