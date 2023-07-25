@@ -2,7 +2,6 @@
 title: Sicilian Chicken
 author: Catherine Hendricks
 date: 2022-03-20 17:08:00 Z
-image: https://www.perdue.com/recipe-images/One_Dish_Sicilian_Chicken_Tada_4.jpg
 categories: Dinner
 ---
 

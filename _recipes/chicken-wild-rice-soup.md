@@ -3,7 +3,6 @@ title: Chicken & Wild Rice Soup
 date: 2021-12-31 22:22:00 Z
 categories: Soup
 author: Catherine Hendricks
-image: https://www.nospoonnecessary.com/wp-content/uploads/2019/01/creamy-chicken-and-wild-rice-soup.jpg
 ---
 
 A creamy chicken soup from a neighborhood friend, Natalie Rogers. 
