@@ -1,10 +1,7 @@
 ---
 title: Banana Bread
 date: 2022-01-30 00:40:00 Z
-categories: Bread
 author: Catherine Hendricks
-image:
-  path: "/uploads/banana%20bread.jpg"
 ---
 
 This recipe is scrumptious and works every time! From one of my favorite neighbors, Natalie Rogers.
