@@ -1,9 +1,10 @@
 ---
-layout: home
 title: Soup
-permalink: /soup/
-pagination: 
+permalink: "/soup/"
+layout: home
+pagination:
   enabled: true
   category: Soup
-  permalink: /:num/
+  permalink: "/:num/"
 ---
+

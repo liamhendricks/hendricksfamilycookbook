@@ -1,9 +1,10 @@
 ---
-layout: home
 title: Dinner
-permalink: /dinner/
-pagination: 
+permalink: "/dinner/"
+layout: home
+pagination:
   enabled: true
   category: Dinner
-  permalink: /:num/
+  permalink: "/:num/"
 ---
+

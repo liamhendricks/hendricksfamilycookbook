@@ -1,9 +1,10 @@
 ---
-layout: home
 title: Bread
-permalink: /bread/
-pagination: 
+permalink: "/bread/"
+layout: home
+pagination:
   enabled: true
   category: Bread
-  permalink: /:num/
+  permalink: "/:num/"
 ---
+

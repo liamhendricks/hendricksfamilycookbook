@@ -1,9 +1,10 @@
 ---
-layout: home
 title: Drinks
-permalink: /drinks/
-pagination: 
+permalink: "/drinks/"
+layout: home
+pagination:
   enabled: true
   category: Drinks
-  permalink: /:num/
+  permalink: "/:num/"
 ---
+

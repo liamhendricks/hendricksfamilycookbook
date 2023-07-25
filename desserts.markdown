@@ -1,9 +1,10 @@
 ---
-layout: home
 title: Dessert
-permalink: /dessert/
-pagination: 
+permalink: "/dessert/"
+layout: home
+pagination:
   enabled: true
   category: Dessert
-  permalink: /:num/
+  permalink: "/:num/"
 ---
+
