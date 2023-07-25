@@ -1,9 +1,9 @@
 ---
 title: Balsamic Dressing
-date: 2022-02-21 14:29:00 Z
-categories:
-- Other
 author: Catherine Hendricks
+date: 2022-02-21 14:29:00 Z
+image: https://www.laurafuentes.com/wp-content/uploads/2020/02/Balsamic-Vinaigrette_square.jpg
+categories: Other
 ---
 
 From one of my Bunco friends, Kim Butler. 
