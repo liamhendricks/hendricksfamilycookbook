@@ -2,12 +2,8 @@
 title: Ginger Snap Cookies
 date: 2021-12-31 00:21:00 Z
 categories:
-- cookies
-tags:
-- cookies
-- ginger snap
+- Dessert
 author: Catherine Hendricks
-read_time: true
 ---
 
 Recipe from Jenny Sampson, a friend from the neighborhood. 

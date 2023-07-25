@@ -2,11 +2,7 @@
 title: Fettucine Alfredo
 date: 2022-02-21 08:00:00 Z
 categories:
-- pasta
-- dinner
-tags:
-- pasta
-- alfredo
+- Dinner
 author: Catherine Hendricks
 ---
 

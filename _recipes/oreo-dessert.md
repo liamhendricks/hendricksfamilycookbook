@@ -2,10 +2,7 @@
 title: Grandma Eliason's Oreo Dessert
 date: 2021-12-30 23:07:00 Z
 categories:
-- dessert
-tags:
-- desseret
-- oreo
+- Dessert
 author: Catherine Hendricks
 ---
 

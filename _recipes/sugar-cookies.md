@@ -2,10 +2,7 @@
 title: Sugar Cookies
 date: 2021-12-31 00:54:00 Z
 categories:
-- cookies
-tags:
-- sugar cookies
-- cream cheese
+- Dessert
 author: Catherine Hendricks
 image:
   path: "/uploads/Sugar%20Cookie-5b9c12.jpg"

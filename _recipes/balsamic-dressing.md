@@ -2,9 +2,7 @@
 title: Balsamic Dressing
 date: 2022-02-21 14:29:00 Z
 categories:
-- Salad Dressing
-tags:
-- Balsamic Dressing
+- Other
 author: Catherine Hendricks
 ---
 

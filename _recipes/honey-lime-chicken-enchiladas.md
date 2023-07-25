@@ -2,13 +2,7 @@
 title: Honey Lime Chicken Enchiladas
 date: 2022-03-20 16:54:00 Z
 categories:
-- Enchiladas
 - Dinner
-- Mexican
-tags:
-- Enchiladas
-- Chicken
-- Honey Lime
 author: Catherine Hendricks
 ---
 

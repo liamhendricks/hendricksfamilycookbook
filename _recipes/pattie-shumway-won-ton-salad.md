@@ -2,12 +2,7 @@
 title: Pattie Shumway's Won Ton Salad
 date: 2021-12-30 23:21:00 Z
 categories:
-- salad
-tags:
-- salad
-- won ton
-- chicken
-read_time: true
+- Salad
 author: Catherine Hendricks
 ---
 

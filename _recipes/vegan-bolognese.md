@@ -2,12 +2,7 @@
 title: Liam's Vegan Bolognese
 date: 2021-11-26 19:17:00 Z
 categories:
-- vegan
-- pasta
-tags:
-- vegan
-- pasta
-read_time: true
+- Dinner
 author: Liam Hendricks
 image:
   path: "/uploads/vegan-bolognese.jpg"

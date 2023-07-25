@@ -3,10 +3,6 @@ title: Corn Chowder
 date: 2021-12-31 21:34:00 Z
 categories:
 - Soup
-tags:
-- corn
-- chowder
-- soup
 author: Catherine Hendricks
 ---
 

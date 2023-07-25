@@ -2,11 +2,7 @@
 title: Chocolate Brownies
 date: 2022-03-20 23:54:00 Z
 categories:
-- desserts
-- brownies
-tags:
-- desserts
-- brownies
+- Dessert
 author: Catherine Hendricks
 ---
 

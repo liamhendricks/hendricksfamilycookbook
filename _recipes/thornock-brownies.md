@@ -2,10 +2,7 @@
 title: Thornock Brownies
 date: 2022-03-20 23:48:00 Z
 categories:
-- desserts
-tags:
-- brownies
-- desserts
+- Dessert
 author: Catherine Hendricks
 ---
 

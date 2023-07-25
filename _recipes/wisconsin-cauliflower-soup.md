@@ -3,10 +3,6 @@ title: Wisconsin Cauliflower Soup
 date: 2021-12-31 22:15:00 Z
 categories:
 - Soup
-tags:
-- Cauliflower
-- Soup
-- Wisconsin
 author: Catherine Hendricks
 ---
 

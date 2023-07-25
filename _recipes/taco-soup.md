@@ -3,8 +3,6 @@ title: Taco Soup
 date: 2021-12-31 22:10:00 Z
 categories:
 - Soup
-tags:
-- taco soup
 author: Catherine Hendricks
 ---
 

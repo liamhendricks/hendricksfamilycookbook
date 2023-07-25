@@ -2,11 +2,7 @@
 title: Guittard Chocolate Chip Cookies
 date: 2021-12-31 00:14:00 Z
 categories:
-- cookies
-tags:
-- cookies
-- chocolate chip
-read_time: true
+- Dessert
 author: Catherine Hendricks
 image:
   path: "/uploads/cc%20cookies.jpg"

@@ -2,11 +2,7 @@
 title: Potato Cheese Soup
 date: 2021-12-31 22:03:00 Z
 categories:
-- soup
-tags:
-- cheese
-- potato
-- soup
+- Soup
 author: Catherine Hendricks
 ---
 

@@ -3,8 +3,6 @@ title: Chicken Noodle Soup
 date: 2021-12-31 21:22:00 Z
 categories:
 - Soup
-tags:
-- Chicken noodle soup
 author: Catherine Hendricks
 ---
 

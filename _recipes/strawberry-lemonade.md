@@ -2,11 +2,7 @@
 title: Strawberry Lemonade
 date: 2022-03-20 23:31:00 Z
 categories:
-- drinks
-tags:
-- drinks
-- strawberry
-- lemonade
+- Drinks
 author: Catherine Hendricks
 ---
 

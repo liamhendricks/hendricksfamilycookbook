@@ -2,10 +2,7 @@
 title: Freezer Tomato Sauce
 date: 2022-01-17 20:54:00 Z
 categories:
-- tomato sauce
-- freezer
-tags:
-- tomato sauce
+- Other
 author: Catherine Hendricks
 ---
 

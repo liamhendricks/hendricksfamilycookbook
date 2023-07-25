@@ -1,12 +1,6 @@
 ---
 title: Sicilian Chicken
 date: 2022-03-20 17:08:00 Z
-categories:
-- Chicken
-- Dinner
-tags:
-- chicken
-- Mushrooms
 author: Catherine Hendricks
 ---
 

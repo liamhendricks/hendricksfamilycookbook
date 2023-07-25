@@ -3,11 +3,6 @@ title: Sweet Rub for Ribs
 date: 2022-03-20 17:25:00 Z
 categories:
 - Dinner
-- Ribs
-tags:
-- Rub
-- Ribs
-- BBQ
 author: Catherine Hendricks
 ---
 

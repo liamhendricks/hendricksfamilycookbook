@@ -2,12 +2,7 @@
 title: Ice Cream Sandwiches
 date: 2022-03-20 16:28:00 Z
 categories:
-- desserts
-- ice cream sandwiches
-tags:
-- desserts
-- ice cream
-- ice cream sandwiches
+- Dessert
 author: Catherine Hendricks
 ---
 

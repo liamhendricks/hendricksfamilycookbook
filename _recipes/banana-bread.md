@@ -2,10 +2,7 @@
 title: Banana Bread
 date: 2022-01-30 00:40:00 Z
 categories:
-- bread
-tags:
-- banana bread
-- bread
+- Bread
 author: Catherine Hendricks
 image:
   path: "/uploads/banana%20bread.jpg"

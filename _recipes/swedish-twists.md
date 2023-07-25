@@ -2,12 +2,8 @@
 title: Swedish Twists
 date: 2022-01-17 15:29:00 Z
 categories:
-- swedish twists
-- cinnamon rolls
-tags:
-- swedish twist
+- Dessert
 author: Catherine Hendricks
-Key: 
 ---
 
 A Christmas morning tradition from the Shumways. 

@@ -3,9 +3,6 @@ title: Teriyaki Shish Kabobs
 date: 2022-02-21 14:36:00 Z
 categories:
 - Dinner
-tags:
-- Kabobs
-- Grill
 author: Catherine Hendricks
 ---
 
