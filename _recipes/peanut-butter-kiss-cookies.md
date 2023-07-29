@@ -3,8 +3,6 @@ title: Peanut Butter Kiss Cookies
 date: 2021-12-31 00:43:00 Z
 categories: Dessert
 author: Catherine Hendricks
-image:
-  path: "/uploads/kiss.jpg"
 ---
 
 Yummy holiday cookie!

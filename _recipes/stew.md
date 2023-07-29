@@ -2,7 +2,7 @@
 title: Stew
 date: 2021-12-31 22:31:00 Z
 categories: Soup
-author: 'Catherine Hendricks '
+author: Catherine Hendricks
 ---
 
 This best stew recipe comes from Angie Hendricks Martin! 

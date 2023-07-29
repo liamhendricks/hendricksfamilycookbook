@@ -3,8 +3,6 @@ title: Pasta Raphael
 date: 2022-02-21 14:45:00 Z
 categories: Dinner
 author: Catherine Hendricks
-image:
-  path: "/uploads/Pasta%20Raphael.jpg"
 ---
 
 A favorite (meatless) pasta dish from one of my high school friends, Holly Blomquist.

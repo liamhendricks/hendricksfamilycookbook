@@ -3,8 +3,6 @@ title: Grandma Eliason's Tea Balls
 date: 2021-12-30 23:10:00 Z
 categories: Dessert
 author: Liam Hendricks
-image:
-  path: "/uploads/PXL_20211220_044656524.jpg"
 ---
 
 Liam's favorite cookie! They are simple, only take a few ingredients, and are quick to bake in the oven. 

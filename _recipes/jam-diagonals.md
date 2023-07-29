@@ -2,8 +2,6 @@
 title: Jam Diagonals
 date: 2021-12-31 00:36:00 Z
 categories: Dessert
-image:
-  path: "/uploads/jam.jpg"
 author: Catherine Hendricks
 ---
 
