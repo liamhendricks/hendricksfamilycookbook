@@ -1,8 +1,9 @@
 ---
 title: Liam's Vegan Bolognese
-date: 2021-11-26 19:17:00 Z
-categories: Dinner
 author: Liam Hendricks
+date: 2021-11-26 19:17:00 Z
+image: /_uploads/vegan-bolognese.jpg
+categories: Dinner
 ---
 
 My plant-based version of a classic, hearty tomato sauce. Instead of the traditional ground beef or pork, we will use lentils and walnuts as a replacement. I personally think it's one of the few vegan "meat" dishes that tastes better without the meat. Carly and I eat it all the time.
