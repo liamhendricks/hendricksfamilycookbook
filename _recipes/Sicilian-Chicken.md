@@ -9,7 +9,7 @@ Delicious, flavorful chicken recipe with rosemary, onions, and mushrooms.
 
 ## Ingredients
 
-* 4 chicken breastss
+* 4 chicken breasts
 * 6 TB parmesan cheese
 * 3 TB flour
 * 2 TB olive oil
