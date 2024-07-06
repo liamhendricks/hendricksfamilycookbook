@@ -2,7 +2,7 @@
 title: Cranberry-Almond Tossed Salad
 author: Catherine Hendricks
 date: 2024-07-06T18:14:17.299Z
-categories: Other
+categories: Salad
 ---
 F﻿rom Susan Swan
 
