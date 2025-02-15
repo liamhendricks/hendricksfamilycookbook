@@ -15,4 +15,3 @@ I﻿ngredients
 * 1﻿ cups slivered almonds or cashews
 * 2﻿ cup mayo
 * 2﻿ lemons (for juice)
-*
